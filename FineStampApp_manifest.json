@@ -1,7 +1,7 @@
 {
   "name": "FineStamp Lab",
   "short_name": "FineStamp",
-  "start_url": "./index.html",
+  "start_url": "./FineStampApp.html",
   "display": "standalone",
   "background_color": "#0d9488",
   "theme_color": "#0d9488",
